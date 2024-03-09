@@ -1,0 +1,4 @@
+﻿  main_script.cpp
+C:\Users\sina\Documents\Cpp\vector_training\vector_training\main_script.cpp(18,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sina\Documents\Cpp\vector_training\vector_training\main_script.cpp(45,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vector_training.vcxproj -> C:\Users\sina\Documents\Cpp\vector_training\x64\Debug\vector_training.exe
